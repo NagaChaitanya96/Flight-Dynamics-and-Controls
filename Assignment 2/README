@@ -1,4 +1,4 @@
-# Autopilots for various dynamic systems:
+# Autopilots for various dynamic systems: 
 
 A dynamic system is subjected to various dispersions during its working condition. Especially, for an aircraft which is a 6 DOF body, even the slightest disturbance if not handeled properly, it will create a havoc. In order to validate its hadling qualities, we need to check on the stability and controllability of the aircraft. 
 
